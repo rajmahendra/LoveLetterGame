@@ -1,2 +1,2 @@
 # LoveLetterGame
-LoveLetter Board GAme
+LoveLetter Board ame
